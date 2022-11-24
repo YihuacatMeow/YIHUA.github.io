@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- saved from url=(0124)file:///C:/Users/%E7%8E%8B%E7%80%9A/Desktop/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96/111306078_Lab2/111306029HW2-2.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+</head>
+<body>
+<style>
+body {
+background-color: palevioletred;
+}
+span{
+color: yellow;
+border: 1px solid black;
+}
+em{
+text-decoration: underline;
+}
+.extra span{
+color: inherit;
+}
+h1{
+text-decoration: overline;
+}
+</style>
+<div class="extra" style="color: lightgreen;"><p></p><h1>
+My favorite sports.
+</h1></div><p></p>
+
+<div style="color: black"><p>
+I like to exercise, and I am good at every kind of ball games instead of baseball. As a fan in basketball, <span>I like the guy who wears the number of 30, naming Stephen Curry; I also like to watch volleyball games.</span> However, I do not watch baseball game because I don't like it and I consider it a waste of time.
+</p></div><p></p>
+<a href="file:///C:/Users/%E7%8E%8B%E7%80%9A/Desktop/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96/111306078_Lab2/111306029HW2-3.html">Thank you handsome Jerry!
+<p>Baseball cracks me in every ways. <span>The stick</span> is so heavy that I could hardly carry on, and there is seldom <span>a place</span> with enough space to build up a baseball field.</p><br>
+<div style="color: blue;">
+Also, basebll needs more than 11 people to create a team. So actually I have rare chance to paly on it.
+<br>
+<br>
+<img src="file:///C:/Users/%E7%8E%8B%E7%80%9A/Desktop/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96/111306078_Lab2/%E5%BF%AB%E8%89%87.jpg" width="50%">
+
+</div></a></body></html>
