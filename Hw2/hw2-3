@@ -42,22 +42,15 @@ color:inherit;
 <div style="color:darkblue;">
 This is...<h3>Eva's self-introduction~<h3></div>
 
-<br>
-<h2><p id="Lastname"> <em>Your favorite music </em></p></h2>
-<label>Choose a color to represent the music you like:
-<input type="color">
-</label>
+<h3><i> Things You Liked:<br> </big></i></h3>
+<form><h4> POP<input type ="checkbox" name= "selection" value="POP">KPOP
+<input type ="checkbox" name= "selection" value="KPOP">Sports<input type ="checkbox" name= "selection" value="JPOP">Books<input type ="checkbox" name= "selection" value="RAP">Food<input type ="checkbox" name= "selection" value="BOOMBAP"> <br></form></h4>
 
-<h5><i> Things You Liked:<br> </big></i>
-<form> POP<input type ="checkbox" name= "selection" value="POP">KPOP
-<input type ="checkbox" name= "selection" value="KPOP">JPOP<input type ="checkbox" name= "selection" value="JPOP">RAP<input type ="checkbox" name= "selection" value="RAP">BOOMBAP<input type ="checkbox" name= "selection" value="BOOMBAP"> <br></form>
-<h5><i> Things You DONT Like:<br> </i>
-<form> POP<input type ="checkbox" name= "selection" value="POP">KPOP
-<input type ="checkbox" name= "selection" value="KPOP">JPOP<input type ="checkbox" name= "selection" value="JPOP">RAP<input type ="checkbox" name= "selection" value="RAP">BOOMBAP<input type ="checkbox" name= "selection" value="BOOMBAP"> <br></form>
+<form><p>
+<h3><i> IF you don't like the selections above more than you like, please answer this, what do you like?<br> </big></i></h3>
+<label for="thing"> <h4>Things you like:</label></h4>
+<input type="thing" name="thing" placeholder="thingy"></p>
 
-<form>
-<h5><i> IF you don't like the music above more than you like, please answer this, who do you hate most?<br> </big></i>
-Taylor swift<input type ="radio" name= "selection2" value="Taylor swift">Kris Wu <input type ="radio" name= "selection2" value="Kris Wu">BTS<input type ="radio" name= "selection2" value="BTS"> AKB48<input type ="radio" name= "selection2" value="AKB48">LIL NAS<input type ="radio" name= "selection2" value="LIL NAS"> ENINEM<input type ="radio" name= "selection2" value="ENINEM"> Other<input type ="radio" name= "selection2" value="Other">
 </form>
 <h5> </form>
 <h5> the reason you don't like the singer:
@@ -84,10 +77,14 @@ Taylor swift<input type ="radio" name= "selection2" value="Taylor swift">Kris Wu
 <option value ="handsome">morality</option>
 <option value ="no gossip">gossip</option>
 </select>
-
+<br>
+<br>
 </form>
 <input type="submit" value="Submit">
 <input type="reset" value="Clear">
-
+<br>
+<br>
 <a href="file:///C:/Users/%E7%8E%8B%E7%80%9A/Desktop/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96/111306078_Lab2/111306029HW2-1.html">This is link.
 </body></html>
+
+
