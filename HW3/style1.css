@@ -1,0 +1,25 @@
+.body{
+
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block
+}
+h5{
+	margin-left: 1%;
+}
+.inputType{
+	margin-left: 3%;
+	display: inline-block;
+}
+.special{
+	margin-left: 2.5%;
+	display: inline-block;
+}
+
+.float{
+	float: right;
+}
+.textarea{
+	text-align: right;
+	display: inline-block
+}
