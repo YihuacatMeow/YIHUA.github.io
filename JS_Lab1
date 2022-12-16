@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+
+
+	<script> 
+		var num1= parseInt(window.prompt("type the first number"));//數學運算
+		var num2= parseInt(window.prompt("type the second number"));
+		var sum = num1+num2;
+		document.writeln("<h3><em>Sum: "+ sum +",");
+
+		if(num1<num2){
+			document.writeln(num1+" < "+num2);
+			document.body.style.backgroundColor = 'lightgreen';
+		}else if(num1==num2){
+			document.writeln(num1+" = "+num2);
+			document.body.style.backgroundColor = 'lightyellow';
+		}else{
+			document.writeln(num1+" > "+num2);
+			document.body.style.backgroundColor = 'lightblue';
+		}
+	</script>
+
+	<br>
+	<br>
+	<input type="button" value=num1 onClick="alert(num1)">
+	<input type="button" value=num2 onClick="alert(num2)">
+	<input type="button" value=" Want other colors?"
+			onclick="alert('change background color?');
+				document.body.style.backgroundColor = 'lightpink';">
+
+	<p><em>If your background color changes, then you are SUCCEED!</em></p>
+	<script>
+		document.writeln("<em>Want to try that again? </em>");//文字
+	</script>
+</body>
+</html>
